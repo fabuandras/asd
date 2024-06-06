@@ -1,0 +1,29 @@
+main {
+    width: 80%;
+    margin: 100px auto;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+h1 {
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.kerdes {
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.helyes_valasz:hover {
+    background-color: green;
+}
+
+.helytelen_valasz:hover {
+    background-color: orange;
+}
